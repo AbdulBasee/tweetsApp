@@ -1,4 +1,4 @@
-# Project Name - *Simple Tweet*
+# Project Name - *TweetApp*
 
 **Simple Tweet** is an android app that allows users to view their Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
@@ -15,7 +15,7 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img src=' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://github.com/AbdulBasee/tweetsApp/blob/master/video.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
